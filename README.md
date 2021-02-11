@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/337990346.svg)](https://zenodo.org/badge/latestdoi/337990346)
+
 This repo contains records of the modelling phase of the Gabon Wildlife MVP project - the model is used in Mbaza AI desktop application ([link to repository](https://github.com/Appsilon/wildlife-explorer)).
 
 # Links to key artifacts
